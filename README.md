@@ -1,3 +1,3 @@
 # INFO2180 Lab 5
 
-This is lab 5 for Shanara Watts.
+This is Lab 5 for <Your Name> on PHP and MySQL
